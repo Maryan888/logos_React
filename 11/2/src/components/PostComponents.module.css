@@ -1,0 +1,9 @@
+.container{
+  border: 5px solid rgb(14, 182, 45);
+  width: 600px;
+  padding: 20px 20px 20px 20px;
+  
+}
+.wrapContainers{
+  display: flex;
+}
